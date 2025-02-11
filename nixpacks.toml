@@ -1,0 +1,7 @@
+[build]
+# Indica el lenguaje y las dependencias
+language = "python"
+command = "pip install -r requirements.txt"
+
+[run]
+command = "python main.py"
